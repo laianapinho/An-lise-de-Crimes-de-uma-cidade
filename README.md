@@ -1,1 +1,1 @@
-Analisando os crimes da cidade Chicago-Estados Unidos.
+Analisando os crimes da cidade de Chicago-Estados Unidos.
